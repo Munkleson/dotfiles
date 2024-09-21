@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = alexwongsydney@gmail.com
+	name = Alex Wong
